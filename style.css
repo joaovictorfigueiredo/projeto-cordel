@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background: #fff;
+}
+
+header{
+    height: 20vh;
+    background: #000;
+    color: #fff;
+    margin: 0px;
+    padding: 0px
+    
+}
+
+header h1{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+
+header h5{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+header a{
+    color: #fff;
+}
+
+main{
+    padding: 1px 100px 10px 100px;
+}
+main section p{
+    font-family: cursive;
+}
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2.0em;
+}
+
+.container-1{
+ background: #262525;
+}
+
+.container-2{   
+    background: #fff;
+    background: url(imgs/cidade-medieval-carcassonne-franca-58c7d935a8eee.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+
+}
+
+.container-2 p{
+    background-color: #00000044;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 24px;
+    margin: 20px;
+    width: 81vh;
+    color: #fff;
+    
+
+}
+
+.container-1 p{
+    padding: 10px;
+    font-size: 24px;
+    margin: 20px;
+    width: 81vh;
+    color: #fff;
+}
+
